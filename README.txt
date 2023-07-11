@@ -2,13 +2,13 @@
 
 compile command
 
-g++ main.cpp decisionTree.cpp node.cpp -o program
+g++ main.cpp decisionTree.cpp node.cpp -o program.exe
 
 ---------------------------------------------------------------------------------------------------
 
 run command
 
-./program
+./program.exe
 
 ---------------------------------------------------------------------------------------------------
 
@@ -23,6 +23,6 @@ request the dataset of a node       "-n node"       (default none)              
 ---------------------------------------------------------------------------------------------------
 
 run command (example with options)
-./program -ds ricardo_data.csv -ts ricardo_test.csv -s --all -d 4 -n 33
+./program.exe -ds ricardo_data.csv -ts ricardo_test.csv -s --all -d 4 -n 33
 
 ---------------------------------------------------------------------------------------------------
