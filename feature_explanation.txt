@@ -1,0 +1,82 @@
+name: japanese name of the anime, commas substituted by spaces
+format: TV, Movie, ONA{ONA, ONA (Chinese)}, OVA, Other{Special, Music, TV Short}
+nr_episodes: number of episodes the anime has, if the anime has not finished airing and the episode amount is unknown, it will be the number of aired episodes
+ep_duration: average duration of all the episodes
+season_nr: number of the season, if the anime is a spin-off/prequel/remake it will be season 1, movies/specials/filler will not count as season and will be 1+ the previous counting season
+release_year: year the anime started releasing
+airing_time: number of years the anime was releasing new episodes
+score: average score displayed on anilist page (1-100)
+popularity: popularity statistic displayed on anilist page
+favorites: favorites statistic displayed on anilist page
+pop/fav_ratio: ratio between popularity and favorites
+studio: A-1 Pictures, bones, MAPPA, Toei Animation, Wit Studio, Other
+source: Manga, Novel{Light Novel, Novel, Visual Novel, Web Novel}, Original, Other{Video Game, Multimedia Project, Other}
+action: TRUE, FALSE
+adventure: TRUE, FALSE
+comedy: TRUE, FALSE
+drama: TRUE, FALSE
+ecchi: TRUE, FALSE
+fantasy: TRUE, FALSE
+hentai: TRUE, FALSE
+horror: TRUE, FALSE
+mahou shoujo: TRUE, FALSE
+mecha: TRUE, FALSE
+music: TRUE, FALSE
+mystery: TRUE, FALSE
+psychological: TRUE, FALSE
+romance: TRUE, FALSE
+sci-fi: TRUE, FALSE
+slice of life: TRUE, FALSE
+sports: TRUE, FALSE
+supernatural: TRUE, FALSE
+thriller: TRUE, FALSE
+demographic: Josei, Kids, Seinen, Shoujo, Shounen
+aliens: whether the tag value is above 75% in anilist {TRUE, FALSE}
+anti hero: whether the tag value is above 75% in anilist {TRUE, FALSE}
+body horror: whether the tag value is above 75% in anilist {TRUE, FALSE}
+coming of age: whether the tag value is above 75% in anilist {TRUE, FALSE}
+conspiracy: whether the tag value is above 75% in anilist {TRUE, FALSE}
+crime: whether the tag value is above 75% in anilist {TRUE, FALSE}
+cultivation: whether the tag value is above 75% in anilist {TRUE, FALSE}
+demons: whether the tag value is above 75% in anilist {TRUE, FALSE}
+dystopian: whether the tag value is above 75% in anilist {TRUE, FALSE}
+ensemble cast: whether the tag value is above 75% in anilist {TRUE, FALSE}
+female protagonist: whether the tag value is above 75% in anilist {TRUE, FALSE}
+foreign: whether the tag value is above 75% in anilist {TRUE, FALSE}
+fugitive: whether the tag value is above 75% in anilist {TRUE, FALSE}
+gods: whether the tag value is above 75% in anilist {TRUE, FALSE}
+gore: whether the tag value is above 75% in anilist {TRUE, FALSE}
+henshin: whether the tag value is above 75% in anilist {TRUE, FALSE}
+historical: whether the tag value is above 75% in anilist {TRUE, FALSE}
+isekai: whether the tag value is above 75% in anilist {TRUE, FALSE}
+kaiju: whether the tag value is above 75% in anilist {TRUE, FALSE}
+lost civilization: whether the tag value is above 75% in anilist {TRUE, FALSE}
+magic: whether the tag value is above 75% in anilist {TRUE, FALSE}
+male protagonist: whether the tag value is above 75% in anilist {TRUE, FALSE}
+martial arts: whether the tag value is above 75% in anilist {TRUE, FALSE}
+memory manipulation: whether the tag value is above 75% in anilist {TRUE, FALSE}
+military: whether the tag value is above 75% in anilist {TRUE, FALSE}
+parody: whether the tag value is above 75% in anilist {TRUE, FALSE}
+philosophy: whether the tag value is above 75% in anilist {TRUE, FALSE}
+post apocalyptic: whether the tag value is above 75% in anilist {TRUE, FALSE}
+reincarnation: whether the tag value is above 75% in anilist {TRUE, FALSE}
+revenge: whether the tag value is above 75% in anilist {TRUE, FALSE}
+rural: whether the tag value is above 75% in anilist {TRUE, FALSE}
+satire: whether the tag value is above 75% in anilist {TRUE, FALSE}
+school: whether the tag value is above 75% in anilist {TRUE, FALSE}
+shapeshifting: whether the tag value is above 75% in anilist {TRUE, FALSE}
+super power: whether the tag value is above 75% in anilist {TRUE, FALSE}
+superhero: whether the tag value is above 75% in anilist {TRUE, FALSE}
+surreal comedy: whether the tag value is above 75% in anilist {TRUE, FALSE}
+survival: whether the tag value is above 75% in anilist {TRUE, FALSE}
+swordplay: whether the tag value is above 75% in anilist {TRUE, FALSE}
+terrorism: whether the tag value is above 75% in anilist {TRUE, FALSE}
+time manipulation: whether the tag value is above 75% in anilist {TRUE, FALSE}
+tragedy: whether the tag value is above 75% in anilist {TRUE, FALSE}
+travel: whether the tag value is above 75% in anilist {TRUE, FALSE}
+urban: whether the tag value is above 75% in anilist {TRUE, FALSE}
+urban fantasy: whether the tag value is above 75% in anilist {TRUE, FALSE}
+war: whether the tag value is above 75% in anilist {TRUE, FALSE}
+cast_age: primary age group of the cast {Adult, Child, Teen, None}
+nr_mcs: number of main characters, displayed on anilist page
+how_good: Bad(1-6), Ok(7-8), Good(9-10)
